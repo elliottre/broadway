@@ -1,0 +1,7 @@
+html {
+  background-image: url("resources/images/the-flatiron-building.png");
+  text-align: center;
+}
+.div2, div4 {
+  background-color: white;
+}
